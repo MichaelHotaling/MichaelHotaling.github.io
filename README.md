@@ -1,7 +1,7 @@
 # MichaelHotaling.github.io
 ## Welcome to GitHub Pages
 
-<a href="about.html" title="About Me">About Me</a>
+<a href="pred_main.md" title="Predictive Maintenance">Predictive Maintenance</a>
 
 You can use the [editor on GitHub](https://github.com/MichaelHotaling/MichaelHotaling.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
